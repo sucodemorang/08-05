@@ -1,4 +1,4 @@
-body {
+body{
     background-color: rgb(160, 83, 255);
     font-family: Arial;
     display: flex;
@@ -7,7 +7,7 @@ body {
 
 }
 
-.caixinha {
+.caixinha{
     background-color: rgb(13, 131, 234);
     padding: 20px 30px;
     border-radius: 10px;
@@ -15,24 +15,24 @@ body {
     width: 300px;
 }
 
-input {
+input{
     padding: 10px;
     widht: 70px;
     margin-right: 10px;
 }
 
-button {
+button{
         padding: 10px;
         cursor: pointer;
 }
 
-ul {
+ul{
     list-style: none;
     padding: 0;
     margin-top: 20px;
 }
 
-li {
+li{
     padding: 10px;
     background-color: aliceblue;
     margin-bottom: 10px;
